@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "702134901318",
+    "project_id": "toko-daoerganik",
+    "storage_bucket": "toko-daoerganik.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:702134901318:android:55e6d1dd2d553d0bb88847",
+        "android_client_info": {
+          "package_name": "com.yohanesraka.tokodaoerganik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "702134901318-4lt2rtmbpbdh5g064tj60v4dcfu3kotb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCinDcKcHujWUGjzVIX5pzs3WOrk53bOpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "702134901318-4lt2rtmbpbdh5g064tj60v4dcfu3kotb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
